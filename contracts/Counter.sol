@@ -11,17 +11,17 @@ contract Counter {
 
     function setCount(int c) public
     {
-        count=c;
+        count = c;
     }
 
     function increaseCount() public 
     {
-        count++;
+        count= count + 1;
     }
 
     function decreaseCount() public
     {
-        count--;
+        count= count - 1;
     }
 
 }

@@ -1,6 +1,5 @@
-# Sample Hardhat Project
+# Simple dApp
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
 
 Try running some of the following tasks:
 
@@ -11,3 +10,5 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+contract address: 0x10D7219c875A6917a9C7208F7E5C66cf67b540e2
+
